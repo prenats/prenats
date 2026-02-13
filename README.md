@@ -87,8 +87,8 @@ Strong background in Linux systems, virtualization, automation, networking and b
 
 ## 📫 Contact
 
-- GitHub: https://github.com/SEU_USERNAME
-- LinkedIn: [optional]
+- GitHub: https://github.com/prenats
+- LinkedIn: prenats
 
 ---
 
