@@ -85,11 +85,11 @@
 
 <p>
   <!-- AI Stack -->
-  <img src="https://img.shields.io/badge/Ollama-LLM_Local-purple?style=flat" />
+  <img src="https://img.shields.io/badge/AI-Local_LLMs-purple?style=flat" />
   <img src="https://img.shields.io/badge/Agents-AI_Automation-blue?style=flat" />
-  <img src="https://img.shields.io/badge/AI_Orchestration-n8n-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Agentic-Coding-orange?style=flat" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-red?style=flat" />
-  <img src="https://img.shields.io/badge/AutoGPT-AI_Execution-yellowgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Automated-AI_Executions-yellowgreen?style=flat" />
 </p>
 
 ---
